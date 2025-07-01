@@ -13,31 +13,6 @@ This project implements a FastAPI backend for managing products using MySQL, SQL
 - MySQL – Backend database
 
 ---
-## 📁 Project Structure
-
-vibeosys_fastapi/
-
-├── app/
-
-│   ├── __init__.py
-
-│   ├── main.py
-
-│   ├── database.py
-
-│   ├── models.py
-
-│   ├── schemas.py
-
-│   └── routes/
-
-│       └── product.py
-
-├── requirements.txt
-
-├── README.md
-
----
 ## Note
 
 MySQL username and password are **not included** for security reasons.  
